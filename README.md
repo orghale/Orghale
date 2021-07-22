@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orghale
 - 👀 I’m interested in backend engineering, systems security
-- 🌱 I’m currently learning systems security
+- 🌱 I’m currently learning systems architechture and security
 - 💞️ I’m looking to collaborate on systems integration
 - 📫 How to reach me linkedin.com/oghale, oghaleykg@gmail.com, +2348067939247
 
