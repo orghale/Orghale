@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orghale
 - 👀 Programmer
-- 🌱 Python, C#, JS, SQL; Oracle DB, Postgres, Mongo DB, SQL Server, MySQL
+- 🌱 Java, Python, C#, JS, SQL; Oracle DB, Postgres, Mongo DB, SQL Server, MySQL; Spring Boot, Flask, ASP.NET /Core
 - 💞️ Backend engineering, System development, Database development
 - 📫 How to reach me linkedin.com/oghale, oghaleykg@gmail.com, +2348067939247
 
